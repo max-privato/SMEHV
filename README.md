@@ -1,5 +1,12 @@
-# EHPT
+# SMEHV OBSOLETE
 Electric&amp;Hybrid Power Trains
+
+*****
+Over the years more I got to hate the names originally chosen for this library and its main modelica files. 
+Therefore today, September 18, 2021 I created a new version of the library , called EHPT, with cleaner names. 
+Therefore this one must be considered obsolete, and may be deleted in the future.
+Note that EHPT already contains some code update over SMEHV.
+*****
 
 This repository contains the modelica library "Electric and Hybrid Power Train" that is the basis of a webbook chapter, named "Simplified Modelling of Electric and Hybrid Vehicles" available on 
 http://omwebbook.openmodelica.org/SMEHV
