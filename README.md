@@ -2,8 +2,8 @@
 Electric&amp;Hybrid Power Trains
 
 *****
-Over the years more I got to hate the names originally chosen for this library and its main modelica files. 
-Therefore today, September 18, 2021 I created a new version of the library , called EHPT, with cleaner names. 
+Over the years I got to hate the names originally chosen for this library and its main modelica files. 
+Therefore today, September 18, 2021, I created a new version of the library , called EHPT, with cleaner names. 
 Therefore this one must be considered obsolete, and may be deleted in the future.
 Note that EHPT already contains some code update over SMEHV.
 Starting from June 2022, EHPT has also been upgraded to version 2.0.0, which requires Modelica Standard Library 4.0.0.
